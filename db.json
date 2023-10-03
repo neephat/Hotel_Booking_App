@@ -1,0 +1,189 @@
+{
+  "hotels": [
+    {
+      "id": 0,
+      "name": "Doreen Hotel Dhaka",
+      "image": "images/hotel01.jpg",
+      "category": "Deluxe Single Room",
+      "price" : 5097,
+      "room" : 5, 
+      "description": "Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. "
+    },
+    {
+      "id": 1,
+      "name": "Royal Park Residence Hotel",
+      "image": "images/hotel02.jpg",
+      "category": "Deluxe Single Room",
+      "price": 2375,
+      "room" : 5,
+      "description": "Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. "
+    },
+    {
+      "id": 2,
+      "name": "Hotel 71",
+      "image": "images/hotel03.jpg",
+      "category": "Premier Single Room",
+      "price": 2375,
+      "room" : 5,
+      "description": "Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. "
+    },
+    {
+      "id": 3,
+      "name": "Hotel Grand Cicle Inn",
+      "image": "images/hotel04.jpg",
+      "category": "Deluxe King Room",
+      "price": 2576,
+      "room" : 5,
+      "description": "Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. "
+    },
+    {
+      "id": 4,
+      "name": "Hotel Shuktara",
+      "image": "images/hotel05.jpg",
+      "category": "Standard Signle Room",
+      "price": 3100,
+      "room" : 5,
+      "description": "Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. "
+    },
+    {
+      "id": 5,
+      "name": "Hotel",
+      "image": "images/hotel06.jpg",
+      "category": "Standard Double Room",
+      "price": 5200,
+      "room" : 5,
+      "description": "Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. "
+    },
+    {
+      "id": 6,
+      "name": "Rafflesia Serviced Apartments",
+      "image": "images/hotel07.jpg",
+      "category": "Standard Double Room",
+      "price": 5100,
+      "room" : 5,
+      "description": "Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. "
+    },
+    {
+      "id": 7,
+      "name": "Hotel the Rahamania",
+      "image": "images/hotel08.jpg",
+      "category": "Deluxe Single Room",
+      "price": 2300,
+      "room" : 5,
+      "description": "Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. "
+    },
+    {
+      "id": 8,
+      "name": "Bengal Blueberry",
+      "image": "images/hotel09.jpg",
+      "category": "Standard Single Room",
+      "price": 3200,
+      "room" : 5,
+      "description": "Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. "
+    },
+    {
+      "id": 9,
+      "name": "Grace 21",
+      "image": "images/hotel10.jpg",
+      "category": "Premier Single Room",
+      "price": 3200,
+      "room" : 5,
+      "description": "Located in Dhaka, 600 metres from Southeast University, The Midori by Lakeshore, Gulshan, Dhaka provides accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. "
+    }
+  ],
+
+  "comments": [
+    {
+      "photoId": 0,
+      "id": 0,
+      "rating": 3,
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Shanto",
+      "date": "2018-10-16T17:57:28.556094Z"
+    },
+    {
+      "photoId": 0,
+      "id": 1,
+      "rating": 4,
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Karim",
+      "date": "2017-09-05T17:57:28.556094Z"
+    },
+    {
+      "photoId": 0,
+      "author": "Rajib",
+      "rating": "",
+      "comment": "Beautiful Bee",
+      "date": "2022-03-05T05:51:04.115Z",
+      "id": 2
+    },
+    {
+      "photoId": 3,
+      "author": "Hasib",
+      "rating": "",
+      "comment": "Wow",
+      "date": "2022-03-05T06:54:23.335Z",
+      "id": 3
+    },
+    {
+      "photoId": 2,
+      "author": "Bohubrihi",
+      "rating": "4",
+      "comment": "Beautiful",
+      "date": "2022-03-05T07:19:37.987Z",
+      "id": 4
+    },
+    {
+      "photoId": 0,
+      "author": "Bohubrihi",
+      "rating": "",
+      "comment": "Nice bee",
+      "date": "2022-03-05T07:25:09.016Z",
+      "id": 5
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "Hasibur",
+      "lastname": "Rahman",
+      "telnum": "01758975747",
+      "email": "hasibur.rahman.tri@gmail.com",
+      "agree": "",
+      "contactType": "tel.",
+      "messag": "",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "id": 0
+    },
+    {
+      "firstname": "Hasibur",
+      "lastname": "Rahman",
+      "telnum": "01758975747",
+      "email": "hasibur.rahman.tri@gmail.com",
+      "agree": "",
+      "contactType": "tel.",
+      "messag": "",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "id": 1
+    },
+    {
+      "firstname": "Hasibur ",
+      "lastname": "Rahman",
+      "telnum": 1758975747,
+      "email": "hasibkyau.cse@gmail.com",
+      "agree": false,
+      "contactType": "",
+      "message": "This website is awesome",
+      "id": 2
+    },
+    {
+      "firstname": "Bohubrihi",
+      "lastname": "React",
+      "telnum": 1758975747,
+      "email": "bohubrihi@gmail.com",
+      "agree": false,
+      "contactType": "",
+      "message": "Nice website",
+      "id": 3
+    }
+  ]
+}
